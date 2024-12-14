@@ -1,0 +1,7 @@
+*.draft
+source_
+.idea/
+.venv/
+test_
+*.py
+*.sh
